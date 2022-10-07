@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 50px auto;
+    text-align: center;
+    width: 800px;
+    background-image: url('./image/Cybersecurity.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Passion One';
+    font-size: 2rem;   
+}
+label{
+    width: 150px;
+    display: inline-block;
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: 'Lato';
+}
+input{
+    border: 2px solid #ccc;
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family: 'Lato';
+    padding: 10px;
+}
+
+form{
+    margin:  25px auto;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid #ccc;
+    background-color: lightslategray;
+    background-repeat: no-repeat;
+    border-image-width: 30%;
+    width: 700px;
+    
+}
+
+img{
+    width: 50%;
+    height: auto;
+    text-align: left;
+    background-repeat: no-repeat;
+
+}
+
+div.form-element{
+    margin: 20px 0;
+}
+
+button{
+    padding: 10px;
+    font-size: 1.5rem;
+    font-family: 'Lato';
+    font-weight: 100;
+    background: blue;
+    color: white;
+    border: none;
+    width: 40%;
+    margin-left: 95px;
+}
+
+#register-account{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 1.5rem;
+    color: white;
+}

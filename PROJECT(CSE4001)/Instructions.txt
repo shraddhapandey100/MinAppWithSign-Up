@@ -1,0 +1,10 @@
+Instructions-
+----------------
+1.) First go to the register page and log in and with each attempt please scroll down and see the message.
+2.) After successful registration, go to the login, fill in the credentials, and log in.
+3.) Now, you will prompt to the home page where we arranged some fun for you.
+Note: 
+------------
+In this project, we have used HTML, CSS, Javascript, PHP, MYSQL, AJAX, and XML along with Regular expressions for validation.
+
+Thank You. 
